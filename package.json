@@ -20,10 +20,7 @@
     "commit": "^0.0.4",
     "concurrently": "^7.3.0",
     "dotenv": "^16.0.1",
-    "git": "^0.1.5",
-    "init": "^0.1.2",
-    "node": "^19.0.0",
-    "yarn-git-install": "^0.4.7"
+    "node": "^19.0.0"
   },
   "devDependencies": {
     "babel-plugin-direct-import": "^1.0.0",
